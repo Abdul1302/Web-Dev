@@ -21,6 +21,7 @@ h6 {
 /* Paragraph */
 p {
     color: #555;
+    border-style: dotted dashed solid double;;
 }
 
 /* Links */
@@ -49,7 +50,7 @@ table {
 table,
 th,
 td {
-    border: 10px solid #9b2929;
+    border: 1px solid #9b2929;
 }
 
 th,
